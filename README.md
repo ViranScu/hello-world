@@ -7,5 +7,3 @@ Group Members:
   Viran Pravinda
   Dinesh Madumal
   Sanduni Dissanayake
-
-  Viran Pravinda Iddamalgoda
